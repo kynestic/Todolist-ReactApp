@@ -1,5 +1,4 @@
 import { useState, useEffect } from 'react'
-import icon from './assets/images/icon.png'
 import './App.css'
 import Note from './components/Note'
 import 'https://kit.fontawesome.com/4a24fc7d8b.js'
